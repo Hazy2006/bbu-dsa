@@ -8,5 +8,6 @@ C++ implementations of abstract data types from the DSA course.
 |------------|-------------|
 | fixed-cap-bi-map | Introduction |
 | sparse-matrix | Sparse matrix ADT with lexicographically ordered triples |
+| indexed-list | IndexedList ADT implemented using a Doubly Linked List (DLL) |
 
 **Language:** C++
